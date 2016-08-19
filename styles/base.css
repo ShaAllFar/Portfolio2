@@ -1,0 +1,9 @@
+body{
+  width: 969px;
+  margin: 0 auto;
+  font-family: 'Montserrat', sans-serif;
+}
+a, a:visited{
+  color: #000;
+  text-decoration: none;
+}
