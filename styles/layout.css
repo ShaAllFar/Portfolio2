@@ -1,0 +1,15 @@
+footer{
+  height: 200px;
+  background-color: #000;
+  color: #fff;
+}
+
+.pictures{
+  padding-top: 50px;
+}
+.pictures li{
+  margin: 0px;
+  padding: 0px;
+  display: inline-block;
+  width: 320px;
+}
